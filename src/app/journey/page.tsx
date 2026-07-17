@@ -678,7 +678,7 @@ export default function Journey() {
         }
       `}</style>
 
-      <Footer variant="default" />
+     <Footer />
     </>
   );
 }

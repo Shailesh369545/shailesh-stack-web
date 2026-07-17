@@ -1,0 +1,921 @@
+⚠ Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of C:\Users\Admin\package-lock.json as the root directory.
+ To silence this warning, set `turbopack.root` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/turbopack#root-directory for more information.
+ Detected additional lockfiles: 
+   * C:\Users\Admin\shailesh stack\shailesh-stack-web\package-lock.json
+
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /portfolio. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /ai-products. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /portfolio. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <form className=... onSubmit={function onSubmit} children=...>
+                               ^^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>) {
+  digest: '4128298277'
+}
+⚠ Unsupported metadata viewport is configured in metadata export in /blog. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[browser] Uncaught Error: Event handlers cannot be passed to Client Component props.
+  <form className=... onSubmit={function onSubmit} children=...>
+                               ^^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>:1:18)
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <form className=... onSubmit={function onSubmit} children=...>
+                               ^^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>) {
+  digest: '4128298277'
+}
+⚠ Unsupported metadata viewport is configured in metadata export in /blog. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /blog. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[browser] Uncaught Error: Event handlers cannot be passed to Client Component props.
+  <form className=... onSubmit={function onSubmit} children=...>
+                               ^^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>:1:18)
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Blocked cross-origin request to Next.js dev resource /_next/webpack-hmr from "192.168.29.142".
+Cross-origin access to Next.js dev resources is blocked by default for safety.
+
+To allow this host in development, add it to "allowedDevOrigins" in next.config.js and restart the dev server:
+
+// next.config.js
+module.exports = {
+  allowedDevOrigins: ['192.168.29.142'],
+}
+
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /contact. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+⚠ Unsupported metadata viewport is configured in metadata export in /contact. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /contact. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /contact. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /portfolio. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /journey. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /journey. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <form className=... onSubmit={function onSubmit} children=...>
+                               ^^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>) {
+  digest: '4128298277'
+}
+⚠ Unsupported metadata viewport is configured in metadata export in /blog. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /blog. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /journey. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /journey. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <form className=... onSubmit={function onSubmit} children=...>
+                               ^^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>) {
+  digest: '4128298277'
+}
+⚠ Unsupported metadata viewport is configured in metadata export in /blog. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[browser] Uncaught Error: Event handlers cannot be passed to Client Component props.
+  <form className=... onSubmit={function onSubmit} children=...>
+                               ^^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>:1:18)
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+⨯ ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  [90m245 |[0m               [33mSubscribe[0m
+  [90m246 |[0m             </button>
+[31m[1m>[0m [90m247 |[0m           </div>
+  [90m    |[0m                 [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m248 |[0m         </section>
+  [90m    |[0m [31m[1m^^^^^^^^[0m
+  [90m249 |[0m       </main>
+  [90m250 |[0m
+  [90m251 |[0m       <[33mFooter[0m />
+
+Parsing ecmascript source code failed
+
+
+⨯ ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  [90m245 |[0m               [33mSubscribe[0m
+  [90m246 |[0m             </button>
+[31m[1m>[0m [90m247 |[0m           </div>
+  [90m    |[0m                 [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m248 |[0m         </section>
+  [90m    |[0m [31m[1m^^^^^^^^[0m
+  [90m249 |[0m       </main>
+  [90m250 |[0m
+  [90m251 |[0m       <[33mFooter[0m />
+
+Parsing ecmascript source code failed
+
+
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] Uncaught Error: ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed
+
+
+    at <unknown> (Error: ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17)
+    at <unknown> (Error: (./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17)
+[browser] Uncaught Error: ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed
+
+
+    at <unknown> (Error: ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17)
+    at <unknown> (Error: (./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17)
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+[browser] ./shailesh stack/shailesh-stack-web/src/app/blog/page.tsx:247:17
+Expected '</', got 'jsx text'
+  245 |               Subscribe
+  246 |             </button>
+> 247 |           </div>
+      |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 248 |         </section>
+      | ^^^^^^^^
+  249 |       </main>
+  250 |
+  251 |       <Footer />
+
+Parsing ecmascript source code failed 
+⚠ Unsupported metadata viewport is configured in metadata export in /blog. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /blog. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /contact. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+⚠ Unsupported metadata viewport is configured in metadata export in /blog. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /ai-products. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /portfolio. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /blog. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /journey. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /portfolio. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
